@@ -1,0 +1,29 @@
+{
+    "topics": {
+        "stress": [
+            {
+                "title": "Understanding Stress",
+                "summary": "A brief overview of what stress is and how it affects the body."
+            },
+            {
+                "title": "5-Minute Stress Relief",
+                "summary": "Quick techniques to calm down when you feel stressed."
+            }
+        ],
+        "anxiety": [
+            {
+                "title": "Managing Anxiety",
+                "summary": "Practical tips for managing anxious thoughts."
+            },
+            {
+                "title": "Grounding Techniques",
+                "summary": "Learn about the 5-4-3-2-1 grounding method to manage anxiety."
+            }
+        ]
+    },
+    "crisis_helpline": {
+        "name": "Emergency Support",
+        "info": "For immediate support, please contact a crisis helpline. In India, you can reach Vandrevala Foundation at 9999666555.",
+        "disclaimer": "Aura is a supportive tool, not a replacement for crisis intervention."
+    }
+}
