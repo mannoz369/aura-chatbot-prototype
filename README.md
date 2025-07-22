@@ -1,9 +1,9 @@
-# aura-chatbot-prototype
+
 # Aura Chatbot - Prototype
 
 This repository contains a working command-line prototype of "Aura - Your Personalized Mental Well-being Chatbot," as specified in the "Maple - ComSoc.pdf" hackathon proposal.
 
-The prototype is built in Python and simulates the core features using a simple command-line interface (CLI).
+The prototype is built in Python and simulates the core features using a simple command-line interface (CLI). Only for the prototype purpose
 
 ## How Features Are Implemented
 
@@ -50,4 +50,4 @@ This prototype maps the requirements from the document to a tangible implementat
     ```
 3.  Follow the on-screen prompts to interact with Aura. The first time you run it, it will ask for your name. Subsequent runs will remember you.
 
-## Project Structure
+
